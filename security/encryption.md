@@ -56,3 +56,8 @@
 - SHA보다 BCrypt를 사용하는 이유
     - BCrypt는 Blowfish를 사용하여 해시 반복 횟수를 변수로 지정하여 작업량을 조절할 수 있다.
     - 이를 통해 무차별 대입 공격을 예방할 수 있다.
+## Reference
+
+[https://velog.io/@ayoung0073/Security-비밀번호-단방향-암호화](https://velog.io/@ayoung0073/Security-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EC%95%94%ED%98%B8%ED%99%94)
+
+[https://liveyourit.tistory.com/183](https://liveyourit.tistory.com/183)
