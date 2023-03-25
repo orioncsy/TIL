@@ -8,7 +8,7 @@
 - 멀티 스레드 환경에서는 동시성 이슈로 인하여 동기화 처리가 필요하다.
 - 대표적으로 ArrayList, HashMap, StringBuilder, StringBuffer 존재
 
-## Immutable
+## Immutable Object
 
 ### 개념
 
